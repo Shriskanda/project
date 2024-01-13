@@ -1,0 +1,194 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: black;
+    background-color: orange;
+   }
+   
+   nav {
+    font-size: x-large;
+    word-spacing: 5ch;
+    text-align: center;
+    background-color: white;
+    color: orange;
+    
+
+   }
+
+   
+   header {
+    background-color: orange;
+    padding: 20px 10%;
+    text-align: center;
+    font-size: xx-large;
+    align-items: center;
+
+   }
+   
+   header h1 {
+    margin: 0;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+   }
+   
+   .collection, .journey, .best ,.man-cloths, .about {
+    padding: 20px;
+    text-align: center;
+    font-size: xx-large;
+   }
+   
+   .journey {
+    background-color: orange;
+    font-style: italic;
+    font-size: xx-large;
+   }
+   
+   .best ,.man-cloths, .about {
+    background-color: black;
+    color: orange;
+    font-style: italic;
+   }
+
+
+   .bestof {
+    word-spacing: 3ch;
+   }
+
+   .picture3, .picture4, .picture5, .picture6 {
+    position: relative;
+    align-self: auto;
+    width: 300px;
+    height: 300px;
+    
+   }
+
+   .cloths {
+    word-spacing: 3ch;
+
+   }
+
+   .picture8, .picture9, .picture10, .picture11, .picture12 {
+    position: relative;
+    align-self: auto;
+    width: 300px;
+    height: 300px;
+   }
+
+   .products-list1 {
+   word-spacing: 15ch;
+   }
+
+   .products-list2 {
+    word-spacing: 13ch;
+    }
+
+    .customer {
+        font-size: xx-large;
+        text-align: center;
+
+    }
+
+    .customerimg {
+        align-self: center;
+    }
+
+    .model {
+        font-size: x-large;
+    }
+
+    .featured-image{
+        width: 90%;
+        padding:20px;
+        margin:100px auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: center; 
+        
+    }
+
+    .box {
+        width: 45%;
+        margin: 0 10px;
+        box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+        transition: 0.5s;
+    }
+
+    .box img {
+        display: block;
+        width: 100%;
+        border-radius: 5px;
+        word-spacing: 25ch;
+        height: 400px;
+
+    }
+
+    .box:hover{
+        transform: scale(1.2);
+        z-index: 2;
+    }
+
+
+    .cloths{
+        width: 90%;
+        padding:20px;
+        margin:100px auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: center; 
+        
+    }
+
+    .box1 {
+        width: 40%;
+        margin: 0 10px;
+        box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+        transition: 0.5s;
+    }
+
+    .box1 img {
+        display: block;
+        width: 100%;
+        border-radius: 5px;
+        word-spacing: 25ch;
+        height: 350px;
+
+    }
+
+    .box1:hover{
+        transform: scale(1.2);
+        z-index: 2;
+    }
+
+
+
+    .bestof{
+        width: 90%;
+        padding:20px;
+        margin:100px auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: center; 
+        
+    }
+
+    .box2 {
+        width: 40%;
+        margin: 0 10px;
+        box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+        transition: 0.5s;
+    }
+
+    .box2 img {
+        display: block;
+        width: 100%;
+        border-radius: 5px;
+        word-spacing: 25ch;
+        height: 350px;
+
+    }
+
+    .box2:hover{
+        transform: scale(1.2);
+        z-index: 2;
+    }
+
